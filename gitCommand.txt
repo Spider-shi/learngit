@@ -1,6 +1,35 @@
 git init //initialize the repository.
 
-git add
-git commit 
+git add file
+
+git commit -m ""
+
+git status
+
+git diff file
+
+git log 
+git log --pretty=oneline
+
+git reflog
+
+git reset --hard **
+git reset HEAD file
+
+git checkout --file
+
+git rm file
+
+git branch
+
+git branch <name> //create a new branch named name
+
+git checkout <name> //switching the branch
+
+git checkout -b <name> //create and switch the branch
+
+git branch -d <name> //delete the branch
+
+git merge <name> //merge the branch
 
 
