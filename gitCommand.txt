@@ -10,6 +10,7 @@ git diff file
 
 git log 
 git log --pretty=oneline
+git log --graph
 
 git reflog
 
