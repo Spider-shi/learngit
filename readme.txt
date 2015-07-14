@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 git merge --no-ff -m "merge with no-ff" dev
+
+bug issue-001 had be fixed.
