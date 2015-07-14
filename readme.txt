@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 git merge --no--ff -m "merge with no-ff" dev
+
+git second person add a branch dev.
