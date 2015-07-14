@@ -8,3 +8,5 @@ git merge --no--ff -m "merge with no-ff" dev
 I am the master.
 
 git second person add a branch dev.
+
+Change the config make the filename color.
