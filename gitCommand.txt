@@ -11,6 +11,7 @@ git diff file
 git log 
 git log --pretty=oneline
 git log --graph
+git log --graph --pretty=oneline --abbrev-commit
 
 git reflog
 
@@ -33,4 +34,5 @@ git branch -d <name> //delete the branch
 
 git merge <name> //merge the branch
 
+git merge --no-ff -m "" <name> //merge the branch no Fast forward
 
