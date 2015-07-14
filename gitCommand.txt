@@ -32,6 +32,8 @@ git checkout -b <name> //create and switch the branch
 
 git branch -d <name> //delete the branch
 
+git branch -D <name> //强行删除
+
 git merge <name> //merge the branch
 
 git merge --no-ff -m "" <name> //merge the branch no Fast forward
