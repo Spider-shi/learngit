@@ -1,8 +1,8 @@
 git init //initialize the repository.
 
-git add file
+git add file //添加新文件到暂存区
 
-git commit -m ""
+git commit -m "" //提交暂存区的文件到分支
 
 git status
 
