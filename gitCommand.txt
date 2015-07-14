@@ -36,3 +36,12 @@ git merge <name> //merge the branch
 
 git merge --no-ff -m "" <name> //merge the branch no Fast forward
 
+git stash 
+
+git stash list
+
+git stash apply
+
+git stash drop
+
+git stash pop
