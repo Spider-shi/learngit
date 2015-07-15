@@ -1,1 +1,1 @@
-git init //≥ı ºªØ≤÷ø‚
+git init //initialize the repository.
