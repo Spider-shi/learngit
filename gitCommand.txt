@@ -1,1 +1,6 @@
 git init //initialize the repository.
+
+git add
+git commit 
+
+
